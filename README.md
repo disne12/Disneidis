@@ -1,25 +1,26 @@
-## 👩‍💻 HOLA SOY  Disneidis Ramirez Atencia **Desarrollador Junior**
+👋 ¡Hola! Soy Disneidis Ramirez Atencia
+💻 Desarrollador Junior Full Stack | 🚀 Apasionado por el código limpio y soluciones innovadoras
 ![istockphoto-941665020-612x612](https://github.com/user-attachments/assets/6cbaacb3-e454-49a0-adca-968669101917)}
 
+🌟 Sobre mí
+Soy un desarrollador entusiasta con enfoque en crear soluciones tecnológicas eficientes, escalables y bien estructuradas. Mi pasión por el código me lleva a aprender constantemente y enfrentar nuevos desafíos con creatividad.
 
+🔹 Mis pilares:
+✅ Autodidacta y proactivo – Siempre aprendiendo nuevas tecnologías.
+✅ Resolvedor de problemas – Enfocado en impactar con soluciones reales.
+✅ Colaborativo – Disfruto trabajar en equipo y compartir conocimiento.
 
+🔹 Intereses principales:
+🌐 Desarrollo web full stack | 🛠️ Optimización de código | 🎨 
 
+🎯 Objetivo Profesional
+Busco integrarme en un equipo dinámico e innovador donde pueda:
 
-Sobre mi# 🌟 
-Apasionado por crear soluciones tecnológicas con código limpio y escalable. Actualmente enfocado en fortalecer mis habilidades en [tecnologías JavaScript, Node.js,Mysql,Tailwind CSS,Html ], mientras colaboro en proyectos prácticos y aprendo buenas prácticas de desarrollo.
+Contribuir con mis habilidades técnicas en proyectos desafiantes.
 
-🔹 Mis intereses:
+Aprender de desarrolladores experimentados.
 
-Desarrollo web
-
-🔹 ¿Qué me diferencia?
-
-Autodidacta y proactivo.
-
-Enfocado en resolver problemas reales con código.
-🎯 Objetivo
-Como Desarrollador Junior [ mi meta es integrarme en un equipo dinámico donde pueda contribuir con mis habilidades técnicas mientras aprendo de profesionales con más experiencia. Busco un entorno que valore la innovación, el trabajo colaborativo y el crecimiento continuo, donde pueda:
-
+Crecer profesionalmente en un entorno que valore la calidad y la colaboración.
 Aportar soluciones creativas a problemas reales mediante código bien estructurado.
 
 Profundizar mis conocimientos
@@ -76,4 +77,13 @@ Happy Hues: https://www.happyhues.co/
  Esta página ofrece paletas de colores predefinidas que puedes ver aplicadas en un diseño de ejemplo, lo que te ayuda a visualizar cómo quedarán en la práctica.
 
 
+📊 Estadísticas de GitHub
+⚡ Actividad Reciente
 
+
+📈 Lenguajes y Contribuciones
+<div style="display: flex; gap: 20px; flex-wrap: wrap;"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=disne12&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estadísticas"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disne12&layout=compact&langs_count=8&theme=github_dark" alt="Lenguajes más usados"/> </div>
+🌟 Proyectos Destacados
+
+
+📅 Gráfica de Contribuciones
