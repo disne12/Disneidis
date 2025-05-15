@@ -1,5 +1,5 @@
 ## 👩‍💻 HOLA SOY  Disneidis Ramirez Atencia **Desarrollador Junior**
-https://media.istockphoto.com/id/941665020/es/vector/hombre-computadora-rellenando-el-formulario-de-cuestionario-en-l%C3%ADnea-concepto-plano-de-vector.jpg?s=612x612&w=0&k=20&c=n2MCDAIpXc5l014ORCL4xxrdIthAU5hgwPJ8bDqY-sk=
+![istockphoto-941665020-612x612](https://github.com/user-attachments/assets/6cbaacb3-e454-49a0-adca-968669101917)
 
 ## 🛠️ Tecnologías y Herramientas
 
