@@ -81,9 +81,3 @@ Happy Hues: https://www.happyhues.co/
 ⚡ Actividad Reciente
 
 
-📈 Lenguajes y Contribuciones
-<div style="display: flex; gap: 20px; flex-wrap: wrap;"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=disne12&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Estadísticas"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disne12&layout=compact&langs_count=8&theme=github_dark" alt="Lenguajes más usados"/> </div>
-🌟 Proyectos Destacados
-
-
-📅 Gráfica de Contribuciones
