@@ -1,6 +1,5 @@
 ## 👩‍💻 HOLA SOY  Disneidis Ramirez Atencia **Desarrollador Junior**
-
-## 🌟 Sobre mí
+https://media.istockphoto.com/id/941665020/es/vector/hombre-computadora-rellenando-el-formulario-de-cuestionario-en-l%C3%ADnea-concepto-plano-de-vector.jpg?s=612x612&w=0&k=20&c=n2MCDAIpXc5l014ORCL4xxrdIthAU5hgwPJ8bDqY-sk=
 
 ## 🛠️ Tecnologías y Herramientas
 
