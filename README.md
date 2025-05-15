@@ -1,6 +1,23 @@
 ## 👩‍💻 HOLA SOY  Disneidis Ramirez Atencia **Desarrollador Junior**
 ![istockphoto-941665020-612x612](https://github.com/user-attachments/assets/6cbaacb3-e454-49a0-adca-968669101917)
+Sobre mi# 🌟 
+Apasionado por crear soluciones tecnológicas con código limpio y escalable. Actualmente enfocado en fortalecer mis habilidades en [tecnologías JavaScript, Node.js,Mysql,Tailwind CSS,Html ], mientras colaboro en proyectos prácticos y aprendo buenas prácticas de desarrollo.
 
+🔹 Mis intereses:
+
+Desarrollo web
+
+🔹 ¿Qué me diferencia?
+
+Autodidacta y proactivo.
+
+Enfocado en resolver problemas reales con código.
+🎯 Objetivo
+Como Desarrollador Junior [ mi meta es integrarme en un equipo dinámico donde pueda contribuir con mis habilidades técnicas mientras aprendo de profesionales con más experiencia. Busco un entorno que valore la innovación, el trabajo colaborativo y el crecimiento continuo, donde pueda:
+
+Aportar soluciones creativas a problemas reales mediante código bien estructurado.
+
+Profundizar mis conocimientos
 ## 🛠️ Tecnologías y Herramientas
 
 ### Frontend
